@@ -7,7 +7,7 @@ stages {
 			stage	('Stage-1')
 			{
 				steps{
-				echo "Welcome to Young Minds!"
+				echo "This is Parallel stage pipeline!"
 				sleep 5
 				}
 			}	
